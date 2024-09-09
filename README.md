@@ -168,6 +168,3 @@ Example Output:
 
 - **Your Name** - [LeharP](https://github.com/LeharP)
 
-## License
-
-This project is licensed under the MIT License.
