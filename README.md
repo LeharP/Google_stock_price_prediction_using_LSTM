@@ -38,7 +38,7 @@ This project implements a stock price prediction model using Long Short-Term Mem
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/google-stock-prediction-lstm.git
+   git clone https://github.com/leharp/google-stock-prediction-lstm.git
    ```
 
 3. Download historical stock data for Google from a reliable source (e.g., [Yahoo Finance](https://finance.yahoo.com/quote/GOOGL/history/)).
