@@ -41,7 +41,7 @@ This project implements a stock price prediction model using Long Short-Term Mem
    git clone https://github.com/yourusername/google-stock-prediction-lstm.git
    ```
 
-3. Download historical stock data for Google from a reliable source (e.g., Yahoo Finance).
+3. Download historical stock data for Google from a reliable source (e.g., [Yahoo Finance](https://finance.yahoo.com/quote/GOOGL/history/)).
 
 4. Ensure the data contains the following columns: `Date`, `Open`, `High`, `Low`, `Close`, `Adj Close`, and `Volume`.
 
@@ -154,6 +154,9 @@ The data must be preprocessed and normalized before feeding into the LSTM model.
 
 - The model outputs a time series of predicted stock prices. The predicted values are plotted against actual stock prices for comparison.
 - While the model may capture trends, stock price prediction is inherently uncertain due to market volatility.
+Example Output:
+
+![Example Output](output.png)
 
 ## Future Work
 
